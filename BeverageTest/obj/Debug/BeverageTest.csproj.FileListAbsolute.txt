@@ -1,0 +1,9 @@
+C:\C# Training\BeverageTest\bin\Debug\BeverageTest.exe.config
+C:\C# Training\BeverageTest\bin\Debug\BeverageTest.exe
+C:\C# Training\BeverageTest\bin\Debug\BeverageTest.pdb
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.csprojAssemblyReference.cache
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.Form1.resources
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.Properties.Resources.resources
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.csproj.GenerateResource.cache
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.exe
+C:\C# Training\BeverageTest\obj\Debug\BeverageTest.pdb
